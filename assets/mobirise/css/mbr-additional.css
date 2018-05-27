@@ -3530,35 +3530,27 @@ body {
 }
 .cid-qSQAheYgu8 {
   padding-top: 0px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-color: #f9f9f9;
 }
 .cid-qSQAheYgu8 .mbr-text,
 .cid-qSQAheYgu8 blockquote {
   color: #767676;
 }
-.cid-qSQuPHNe9Y {
+.cid-qThLB5tquA {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #f9f9f9;
+  background-image: url("../../../assets/images/poster-1-1300x1000.png");
 }
-@media (min-width: 992px) {
-  .cid-qSQuPHNe9Y .mbr-figure {
-    padding-right: 4rem;
-  }
+.cid-qThLB5tquA .mbr-section-subtitle {
+  letter-spacing: .2rem;
 }
-@media (max-width: 991px) {
-  .cid-qSQuPHNe9Y .mbr-figure {
-    padding-bottom: 3rem;
-  }
+.cid-qThLB5tquA H1 {
+  text-align: right;
 }
-@media (max-width: 767px) {
-  .cid-qSQuPHNe9Y .mbr-text {
-    text-align: center;
-  }
-}
-.cid-qSQuPHNe9Y .mbr-text,
-.cid-qSQuPHNe9Y .mbr-section-btn {
+.cid-qThLB5tquA .mbr-text,
+.cid-qThLB5tquA .mbr-section-btn {
+  text-align: left;
   color: #767676;
 }
 .cid-qSQHrvRxgp {
