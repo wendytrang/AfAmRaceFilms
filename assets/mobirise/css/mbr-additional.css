@@ -6885,6 +6885,168 @@ body {
 .cid-qSeM9Z8YJu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-qThFFYCsTP {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/2-1000x500.png");
+  position: relative;
+}
+.cid-qThFFYCsTP .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-qThFFYCsTP .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-qThFFYCsTP .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-qThFFYCsTP .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-qThFFYCsTP .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
+}
+.cid-qThFFYCsTP .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-qThFFYCsTP .card .panel-body {
+  color: #767676;
+}
+.cid-qThFHDwoU4 {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #a5a5a5;
+}
+.cid-qThFHDwoU4 H2 {
+  color: #ffffff;
+}
+.cid-qThGa8Lcse {
+  padding-top: 15px;
+  padding-bottom: 60px;
+  background-color: #a5a5a5;
+}
+@media (min-width: 992px) {
+  .cid-qThGa8Lcse .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-qThGa8Lcse .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-qThGa8Lcse .mbr-text {
+  color: #ffffff;
+}
+.cid-qThFIB4VI6 {
+  padding-top: 60px;
+  padding-bottom: 75px;
+  background-color: #efefef;
+  position: relative;
+}
+.cid-qThFIB4VI6 .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-qThFIB4VI6 .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-qThFIB4VI6 .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-qThFIB4VI6 .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-qThFIB4VI6 .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
+}
+.cid-qThFIB4VI6 .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-qThFIB4VI6 .card .panel-body {
+  color: #767676;
+}
+.cid-qThFaUq1UI {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qThFaUq1UI .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-qThFaUq1UI .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-qThFaUq1UI .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-qThFaUq1UI .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-qThFaUq1UI .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-qThFaUq1UI .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-qThFaUq1UI .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-qThFaUq1UI .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-qThFaUq1UI .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+}
 .cid-qT7asgJt84 {
   padding-top: 30px;
   padding-bottom: 45px;
@@ -7348,6 +7510,113 @@ body {
   padding-top: 135px;
   padding-bottom: 90px;
   background-color: #886586;
+}
+.cid-qThFwon2Rr {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #9f9d9d;
+  position: relative;
+}
+.cid-qThFwon2Rr .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-qThFwon2Rr .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-qThFwon2Rr .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-qThFwon2Rr .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-qThFwon2Rr .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
+}
+.cid-qThFwon2Rr .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-qThFwon2Rr .card .panel-body {
+  color: #767676;
+}
+.cid-qThFwon2Rr B {
+  color: #ffffff;
+}
+.cid-qThFwon2Rr H4 {
+  color: #ffffff;
+}
+.cid-qThFwon2Rr .panel-text {
+  color: #ffffff;
+}
+.cid-qThFxJ2FI2 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qThFxJ2FI2 .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-qThFxJ2FI2 .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-qThFxJ2FI2 .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-qThFxJ2FI2 .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-qThFxJ2FI2 .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #554346;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-qThFxJ2FI2 .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-qThFxJ2FI2 .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-qThFxJ2FI2 .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-qThFxJ2FI2 .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #554346 !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
 }
 .cid-qT7augVRCD {
   padding-top: 30px;
