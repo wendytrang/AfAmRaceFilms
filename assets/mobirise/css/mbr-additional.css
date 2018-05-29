@@ -2468,6 +2468,27 @@ body {
 .cid-qT78claErj P {
   color: #767676;
 }
+.cid-qTpp5DC5Pk {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: #ffffff;
+}
+.cid-qTpp5DC5Pk .image-block {
+  margin: auto;
+}
+.cid-qTpp5DC5Pk figcaption {
+  position: relative;
+}
+.cid-qTpp5DC5Pk figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qTpp5DC5Pk .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qT78cSLD8q {
   padding-top: 60px;
   padding-bottom: 60px;
