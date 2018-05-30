@@ -4112,10 +4112,31 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/export-the-data-411x367.png");
 }
+.cid-qTvw3df697 {
+  padding-top: 75px;
+  padding-bottom: 45px;
+  background: #f9f9f9;
+}
+.cid-qTvw3df697 .image-block {
+  margin: auto;
+}
+.cid-qTvw3df697 figcaption {
+  position: relative;
+}
+.cid-qTvw3df697 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qTvw3df697 .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qTop4HWuXE {
   padding-top: 30px;
   padding-bottom: 0px;
-  background: linear-gradient(45deg, #f9f9f9, #ffffff);
+  background: linear-gradient(45deg, #f9f9f9, #f9f9f9);
 }
 .cid-qTop4HWuXE .mbr-section-subtitle {
   font-style: italic;
