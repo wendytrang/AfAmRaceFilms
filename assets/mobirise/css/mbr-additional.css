@@ -2607,27 +2607,6 @@ body {
 .cid-qT78claErj P {
   color: #767676;
 }
-.cid-qTpp5DC5Pk {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background: #ffffff;
-}
-.cid-qTpp5DC5Pk .image-block {
-  margin: auto;
-}
-.cid-qTpp5DC5Pk figcaption {
-  position: relative;
-}
-.cid-qTpp5DC5Pk figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qTpp5DC5Pk .image-block {
-    width: 100% !important;
-  }
-}
 .cid-qT78cSLD8q {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -4244,26 +4223,18 @@ body {
 .cid-qU1NhMMDzO P {
   color: #232323;
 }
-.cid-qTvw3df697 {
-  padding-top: 75px;
-  padding-bottom: 45px;
-  background: #f9f9f9;
+.cid-qUdjqPSbKe {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background: linear-gradient(45deg, #f9f9f9, #f9f9f9);
 }
-.cid-qTvw3df697 .image-block {
-  margin: auto;
+.cid-qUdjqPSbKe .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
 }
-.cid-qTvw3df697 figcaption {
-  position: relative;
-}
-.cid-qTvw3df697 figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qTvw3df697 .image-block {
-    width: 100% !important;
-  }
+.cid-qUdjqPSbKe P {
+  color: #767676;
+  text-align: left;
 }
 .cid-qTop4HWuXE {
   padding-top: 30px;
@@ -7223,27 +7194,6 @@ body {
   text-align: center;
   color: #000000;
 }
-.cid-qTnXiroP2o {
-  padding-top: 0px;
-  padding-bottom: 60px;
-  background: #f9f9f9;
-}
-.cid-qTnXiroP2o .image-block {
-  margin: auto;
-}
-.cid-qTnXiroP2o figcaption {
-  position: relative;
-}
-.cid-qTnXiroP2o figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qTnXiroP2o .image-block {
-    width: 100% !important;
-  }
-}
 .cid-qTnXh9S2e6 {
   padding-top: 30px;
   padding-bottom: 15px;
@@ -7269,27 +7219,6 @@ body {
 }
 .cid-qTnX87tNSf H2 {
   text-align: center;
-}
-.cid-qTnXa20AsN {
-  padding-top: 0px;
-  padding-bottom: 60px;
-  background: #f9f9f9;
-}
-.cid-qTnXa20AsN .image-block {
-  margin: auto;
-}
-.cid-qTnXa20AsN figcaption {
-  position: relative;
-}
-.cid-qTnXa20AsN figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qTnXa20AsN .image-block {
-    width: 100% !important;
-  }
 }
 .cid-qTnXcUIlnw {
   padding-top: 30px;
