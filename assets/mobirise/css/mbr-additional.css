@@ -1987,44 +1987,44 @@ body {
 .cid-qT75VLN0kb .item-role P {
   text-align: center;
 }
-.cid-qU3uWSluzC {
+.cid-qUaUqZpL1Z {
   padding-top: 60px;
   padding-bottom: 30px;
   background-color: #f9f9f9;
 }
-.cid-qU3uWSluzC .mbr-section-subtitle {
+.cid-qUaUqZpL1Z .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qU3uWSluzC .media-row {
+.cid-qUaUqZpL1Z .media-row {
   display: flex;
   justify-content: center;
 }
-.cid-qU3uWSluzC .team-item {
+.cid-qUaUqZpL1Z .team-item {
   transition: all .2s;
   margin-bottom: 2rem;
 }
-.cid-qU3uWSluzC .team-item .item-image img {
+.cid-qUaUqZpL1Z .team-item .item-image img {
   width: 100%;
 }
-.cid-qU3uWSluzC .team-item .item-name p {
+.cid-qUaUqZpL1Z .team-item .item-name p {
   margin-bottom: 0;
 }
-.cid-qU3uWSluzC .team-item .item-role p {
+.cid-qUaUqZpL1Z .team-item .item-role p {
   margin-bottom: 0;
 }
-.cid-qU3uWSluzC .team-item .item-social {
+.cid-qUaUqZpL1Z .team-item .item-social {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
-.cid-qU3uWSluzC .team-item .item-social .socicon {
+.cid-qUaUqZpL1Z .team-item .item-social .socicon {
   color: #232323;
   font-size: 17px;
 }
-.cid-qU3uWSluzC .team-item .item-caption {
+.cid-qUaUqZpL1Z .team-item .item-caption {
   background: #efefef;
 }
-.cid-qU3uWSluzC B {
+.cid-qUaUqZpL1Z B {
   color: #767676;
 }
 .cid-qU3wYyMjGq {
@@ -5805,7 +5805,7 @@ body {
 }
 .cid-qSRg0n7ntB {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 15px;
   background-color: #f9f9f9;
   background: linear-gradient(0deg, #f9f9f9, #f9f9f9);
 }
@@ -5848,6 +5848,124 @@ body {
 }
 .cid-qSRg0n7ntB P {
   text-align: right;
+}
+.cid-qUbq2KnM8y {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/within-our-gates-hi-res-995x1424.jpg");
+}
+.cid-qUbq2KnM8y .mbr-media span {
+  font-size: 48px;
+  cursor: pointer;
+  background-color: #ffffff;
+  border-radius: 50%;
+  width: 6rem;
+  height: 6rem;
+  line-height: 6rem;
+  position: relative;
+  display: inline-block;
+  transition: all 0.25s;
+  color: #353535;
+}
+.cid-qUbq2KnM8y .mbr-media span.mbri-play:before {
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translateX(-35%);
+  -moz-transform: translateX(-35%);
+  -ms-transform: translateX(-35%);
+  -o-transform: translateX(-35%);
+  transform: translateX(-35%);
+}
+.cid-qUbq2KnM8y .modalWindow {
+  position: fixed;
+  z-index: 5000;
+  left: 0;
+  top: 0;
+  background-color: rgba(61, 61, 61, 0.65);
+  width: 100%;
+  height: 100%;
+}
+.cid-qUbq2KnM8y .modalWindow .modalWindow-container {
+  display: table-cell;
+  vertical-align: middle;
+}
+.cid-qUbq2KnM8y .modalWindow .modalWindow-video {
+  height: calc(44.9943757vw);
+  width: 80vw;
+  margin: 0 auto;
+}
+.cid-qUbq2KnM8y a.close {
+  position: absolute;
+  right: 4vw;
+  top: 4vh;
+  color: #ffffff;
+  z-index: 5000000;
+  font-size: 37px;
+  background: #000;
+  padding: 20px;
+  border-radius: 50%;
+}
+.cid-qUbq2KnM8y a.close:hover {
+  color: #ffffff;
+}
+.cid-qUb2zRgYBL {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/bodyandsoul-1925-usa-oscar-micheaux-kino-1200x600.jpg");
+}
+.cid-qUb2zRgYBL .mbr-media span {
+  font-size: 48px;
+  cursor: pointer;
+  background-color: #ffffff;
+  border-radius: 50%;
+  width: 6rem;
+  height: 6rem;
+  line-height: 6rem;
+  position: relative;
+  display: inline-block;
+  transition: all 0.25s;
+  color: #353535;
+}
+.cid-qUb2zRgYBL .mbr-media span.mbri-play:before {
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translateX(-35%);
+  -moz-transform: translateX(-35%);
+  -ms-transform: translateX(-35%);
+  -o-transform: translateX(-35%);
+  transform: translateX(-35%);
+}
+.cid-qUb2zRgYBL .modalWindow {
+  position: fixed;
+  z-index: 5000;
+  left: 0;
+  top: 0;
+  background-color: rgba(61, 61, 61, 0.65);
+  width: 100%;
+  height: 100%;
+}
+.cid-qUb2zRgYBL .modalWindow .modalWindow-container {
+  display: table-cell;
+  vertical-align: middle;
+}
+.cid-qUb2zRgYBL .modalWindow .modalWindow-video {
+  height: calc(44.9943757vw);
+  width: 80vw;
+  margin: 0 auto;
+}
+.cid-qUb2zRgYBL a.close {
+  position: absolute;
+  right: 4vw;
+  top: 4vh;
+  color: #ffffff;
+  z-index: 5000000;
+  font-size: 37px;
+  background: #000;
+  padding: 20px;
+  border-radius: 50%;
+}
+.cid-qUb2zRgYBL a.close:hover {
+  color: #ffffff;
 }
 .cid-qT7apwF80o {
   padding-top: 30px;
